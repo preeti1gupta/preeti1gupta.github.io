@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Preeti Gupta</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Projects on Preeti Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Linear-Regression</title>
+      <link>https://example.com/post/project-1/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-1/</guid>
+      <description>This repository contains the files of my data science first machine learning project. The data concerns city-fuel consumption in miles per gallon,to be predicted in terms of 3 multivariate discrete and 5 continuous attributes. The number of instances are 398 and the number of attributes are 9 including the class attribute.    Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Logistic-Classification-Regression</title>
+      <link>https://example.com/post/project-2/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-2/</guid>
+      <description>We will use Naive Bayes to model the &amp;ldquo;Pima Indians Diabetes&amp;rdquo;. This model will predict which people are likely to develop diabetes The obejective is to predict whether or not a patient has a diabetes based on dataconstraints. In particular all pateients here are females atleast 21 years old of Pima Indian Heritage.    Link to Github</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Transfer Learning</title>
+      <link>https://example.com/post/project-3/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-3/</guid>
+      <description>Our aim is to build a model to recognize / classify i images in potential categories. Greendeck is a vendor who helps retailers in identifying / classification of images in correct categories &amp;amp; further helps in price intelligence. Keras library provides a set of deep learning models along with pre-trained weights (for e.g. ImageNet dataset). These pre-trained models can be used for image classification, feature extraction, and transfer learning. Model created using raw input images shows approx.</description>
+    </item>
+    
+    <item>
+      <title>Project 4:Natural language processing (NLP) </title>
+      <link>https://example.com/post/project-4/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-4/</guid>
+      <description>Sentiment analysis refers to the class of computational and natural language processing based techniques used to identify, extract or characterize subjective information, such as opinions, expressed in a given piece of text. The main purpose of sentiment analysis is to classify a writer’s attitude towards various topics into positive, negative or neutral categories.Sentiment analysis has gain much attention in recent years. In this assignment, we aim to tackle the problem of sentiment polarity categorization, which is one of the fundamental problems of sentiment analysis.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Statistical Modeling</title>
+      <link>https://example.com/post/project-5/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/project-5/</guid>
+      <description>A loan is one of the most important products of the banking. All the banks are trying to figure out effective business strategies to persuade customers to apply their loans. However, there are some customers behave negatively after their applications are approved. To prevent this situation, banks have to find some methods to predict customers’ behaviors. Machine learning algorithms have a pretty good performance on this purpose, which are widely used by the banking.</description>
+    </item>
+    
+  </channel>
+</rss>
